@@ -29,7 +29,6 @@ const productsPaintings = [
     type: "Paintings"
   },
 ];
-  
 
 const paintingsContainer = document.getElementById('Paintings');
 
